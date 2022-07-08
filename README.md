@@ -1,10 +1,10 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
-- Section:
-- Preferred Programming Language: C++/Java/Python
+- Name: SHRUTI
+- University Roll No.: 1900290310158
+- Branch:ECE
+- Section:C
+- Preferred Programming Language: C++
 
 ## Coding Profiles
 - LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
